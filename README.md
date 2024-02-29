@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vidyakumari4me@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ehO21IMfMbqVidvAZ5YaGWPiOuow_tny/view?usp=drive_link](https://drive.google.com/file/d/1ehO21IMfMbqVidvAZ5YaGWPiOuow_tny/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ehO21IMfMbqVidvAZ5YaGWPiOuow_tny/view?usp=drive_link](https://drive.google.com/file/d/1-wS7Yuy2lB8kNQyFES1b_ALnE9pGblZi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
