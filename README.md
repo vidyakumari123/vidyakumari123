@@ -1,49 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vidya Kumari**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vidya%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 🎓 MCA @ NIT Raipur
+# 👋 Hi, I'm Vidya Kumari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+### 💻 Full Stack Developer | 🚀 MERN Stack | 🎓 MCA @ NIT Raipur
+
+<p>
+Passionate about building modern, scalable web applications using React, Node.js and JavaScript.
+</p>
 
 </div>
 
 ---
 
-<table>
-<tr>
+## 🚀 About Me
 
-<td width="33%" align="center">
-
-<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="220"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<a href="https://app.daily.dev/vidyakumari">
-<img src="https://api.daily.dev/devcards/v2/z2SEvnpikrVxh1B6gcZ6L.png?type=default&r=cnh" width="240"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vidyakumari123&theme=onestar&no-frame=true&column=3"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💫 About Me
-
-🚀 Passionate about **Full Stack Development**  
-💻 Love building modern web applications using **React, Node.js, and JavaScript**  
-🎓 Pursuing **MCA from NIT Raipur**  
-📚 Currently learning **MERN Stack Development**
+- 💻 Full Stack Developer passionate about modern web technologies  
+- ⚡ Skilled in **React, JavaScript, Node.js and MongoDB**  
+- 🎓 Pursuing **MCA from NIT Raipur**  
+- 📚 Currently learning **Advanced MERN Stack Development**
 
 📫 **Email:**  
 vidyakumari4me@gmail.com
@@ -53,24 +29,24 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://twitter.com/vidyakumari4me">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vidya-kumari-54620624a">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/vidyakumari">
-<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/vidyakumari">
-<img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -81,7 +57,7 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,redux,bootstrap,java,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,redux,bootstrap,java,mysql,git,vscode" />
 
 </p>
 
@@ -89,23 +65,13 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 # 📊 GitHub Stats
 
-<table>
-<tr>
+<p align="center">
 
-<td>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=radical"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
 
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=radical"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -113,37 +79,19 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=vidyakumari123&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vidyakumari123&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Activity
 
-<table>
-<tr>
-
-<td width="20%" align="center">
-
-<img src="https://media.tenor.com/mKtsJ9a5rBMAAAAd/programming.gif" width="150"/>
-
-</td>
-
-<td width="60%">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=react-dark"/>
 
-</td>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
