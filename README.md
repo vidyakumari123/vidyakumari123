@@ -14,7 +14,37 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450"/>
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<h2>👩‍💻 Developer Life</h2>
+
+💡 Turning ideas into code  
+⚡ Building modern web applications  
+🚀 Passionate about MERN Stack  
+
+✨ Code. Build. Learn. Repeat.
+
+<p>
+
+<img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/OpenSource-Lover-purple?style=for-the-badge&logo=github"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
