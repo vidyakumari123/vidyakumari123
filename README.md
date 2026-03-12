@@ -1,52 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vidya%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=220&section=header&text=Vidya%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20NIT%20Raipur&descAlignY=60"/>
 
-# 👋 Hi, I'm Vidya Kumari
+</div>
 
-### 💻 Full Stack Developer | 🚀 MERN Stack | 🎓 MCA @ NIT Raipur
+<div align="center">
 
-<p>
-Passionate about building modern, scalable web applications using React, Node.js and JavaScript.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Developer passionate about modern web technologies  
-- ⚡ Skilled in **React, JavaScript, Node.js and MongoDB**  
-- 🎓 Pursuing **MCA from NIT Raipur**  
-- 📚 Currently learning **Advanced MERN Stack Development**
+💻 Full Stack Developer passionate about building modern web applications  
+⚡ Skilled in **React, JavaScript, Node.js, and MongoDB**  
+🎓 MCA Student at **NIT Raipur**  
+📚 Currently learning **Advanced MERN Stack Development**
 
-📫 **Email:**  
-vidyakumari4me@gmail.com
+📫 **Email**  
+vidyakumari4me@gmail.com  
 
-📄 **Resume:**  
+📄 **Resume**  
 https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://twitter.com/vidyakumari4me">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vidya-kumari-54620624a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/vidyakumari">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.hackerrank.com/vidyakumari">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </p>
@@ -57,7 +55,7 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,redux,bootstrap,java,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?theme=dark&i=react,nodejs,express,mongodb,javascript,redux,bootstrap,java,mysql,git,vscode"/>
 
 </p>
 
@@ -67,9 +65,9 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -89,7 +87,7 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=github-dark"/>
 
 </p>
 
@@ -107,6 +105,6 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for visiting my profile**
 
 </div>
