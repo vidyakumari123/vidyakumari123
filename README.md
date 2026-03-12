@@ -1,33 +1,108 @@
+<div align="center">
 
-<a href="https://app.daily.dev/vidyakumari"><img src="https://api.daily.dev/devcards/v2/z2SEvnpikrVxh1B6gcZ6L.png?type=default&r=cnh" width="356" alt="VIDYA KUMARI's Dev Card" /></a>
-<h1 align="center">Hi 👋, I'm vidya kumari</h1>
-<h3 align="center">A passionate FullStack developer from India Pursued Master of Computer Application From NIT Raipur</h3>
+# 👋 Hi, I'm **Vidya Kumari**
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+### 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 🎓 MCA @ NIT Raipur
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyakumari123&label=Profile%20views&color=0e75b6&style=flat" alt="vidyakumari123" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-<p align="left"> <a href="https://twitter.com/vidyakumari4me" target="blank"><img src="https://img.shields.io/twitter/follow/vidyakumari4me?logo=twitter&style=for-the-badge" alt="vidyakumari4me" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **MERN FULL STACK**
+---
 
-- 💬 Ask me about **REACTJS**
+<div align="center">
 
-- 📫 How to reach me **vidyakumari4me@gmail.com**
+<a href="https://app.daily.dev/vidyakumari">
+<img src="https://api.daily.dev/devcards/v2/z2SEvnpikrVxh1B6gcZ6L.png?type=default&r=cnh" width="300"/>
+</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view?usp=sharing)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vidyakumari4me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidyakumari4me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidya-kumari-54620624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidya-kumari-54620624a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:23036827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23036827" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vidya kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidya kumari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vidya kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidya kumari" height="30" width="40" /></a>
+</div>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+
+### 🚀 About Me
+
+✨ Passionate about building **modern full stack web applications**
+
+- 🌱 Currently learning **MERN Full Stack Development**
+- 💻 Strong in **ReactJS & Frontend Development**
+- 🔭 Working on **Real World Web Projects**
+- 📫 Reach me at **vidyakumari4me@gmail.com**
+- 📄 Resume  
+  👉 https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com/vidyakumari4me">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vidya-kumari-54620624a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/vidyakumari">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/vidyakumari">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyakumari123&show_icons=true&locale=en&layout=compact" alt="vidyakumari123" /></p>
+# 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&locale=en" alt="vidyakumari123" /></p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,redux,bootstrap,java,mysql,postgresql,linux,git" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vidyakumari123&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vidyakumari123&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
