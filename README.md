@@ -19,7 +19,7 @@
 
 <td width="50%">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<img src="https://media.tenor.com/LtF2Qx9sY0AAAAAC/woman-coding.gif" width="100%"/>
 
 </td>
 
