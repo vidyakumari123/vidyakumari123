@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=220&section=header&text=Vidya%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20NIT%20Raipur&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vidya%20Kumari&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20NIT%20Raipur&descSize=20&descAlignY=65"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
