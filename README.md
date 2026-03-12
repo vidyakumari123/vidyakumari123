@@ -6,7 +6,37 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<h2>👩‍💻 Developer Life</h2>
+
+💡 Turning ideas into code  
+⚡ Building modern web applications  
+🚀 Passionate about MERN Stack  
+
+✨ Code. Build. Learn. Repeat.
+
+<p>
+
+<img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/OpenSource-Lover-purple?style=for-the-badge&logo=github"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
