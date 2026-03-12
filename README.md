@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vidya%20Kumari&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20NIT%20Raipur&descSize=20&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:333399,100:00ffff&height=260&section=header&text=Vidya%20Kumari&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20NIT%20Raipur&descSize=24&descAlignY=70"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450"/>
 
 </div>
 
@@ -14,15 +22,15 @@
 
 # 🚀 About Me
 
-💻 Full Stack Developer passionate about building modern web applications  
-⚡ Skilled in **React, JavaScript, Node.js, and MongoDB**  
-🎓 MCA Student at **NIT Raipur**  
-📚 Currently learning **Advanced MERN Stack Development**
+✨ Passionate **Full Stack Developer**  
+💻 Love building modern scalable web applications  
+⚡ Specialized in **React, Node.js, MongoDB, JavaScript**  
+🎓 MCA Student at **NIT Raipur**
 
-📫 **Email**  
-vidyakumari4me@gmail.com  
+📫 Email  
+**vidyakumari4me@gmail.com**
 
-📄 **Resume**  
+📄 Resume  
 https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
@@ -32,19 +40,19 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 <p align="center">
 
 <a href="https://twitter.com/vidyakumari4me">
-<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vidya-kumari-54620624a">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/vidyakumari">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.hackerrank.com/vidyakumari">
-<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </p>
@@ -61,13 +69,23 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vidyakumari123&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -83,11 +101,11 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=react-dark"/>
 
 </p>
 
@@ -97,7 +115,7 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vidyakumari123&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vidyakumari123&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
@@ -105,6 +123,6 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile**
+⭐ **Thanks for visiting my profile!**
 
 </div>
