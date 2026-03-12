@@ -99,14 +99,6 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidyakumari123&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
