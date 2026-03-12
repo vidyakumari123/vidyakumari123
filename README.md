@@ -99,10 +99,10 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidyakumari123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vidyakumari123&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
