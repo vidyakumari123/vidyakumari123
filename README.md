@@ -91,15 +91,30 @@ https://drive.google.com/file/d/1jXpj974jRbeEITryd2vjBhpdF2nh3cyE/view
 
 # 📈 Activity Graph
 
-<p align="center">
+## 📈 Activity Graph
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="180"/>
+
+</td>
+
+<td width="50%">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyakumari123&theme=react-dark"/>
 
-</p>
+</td>
 
----
+<td width="25%" align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js" />
+
+</td>
+
+</tr>
+</table>
 
 ⭐ **Thanks for visiting my profile!**
 
