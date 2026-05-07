@@ -100,15 +100,7 @@ https://tinyurl.com/ypspsabn
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidyakumari123&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyakumari123&layout=compact&theme=tokyonight"/> </p>
 ---
 
 # 🔥 GitHub Streak
