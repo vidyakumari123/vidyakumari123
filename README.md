@@ -61,7 +61,7 @@
 **vidyakumari4me@gmail.com**
 
 📄 Resume  
-https://tinyurl.com/ypspsabn
+https://tinyurl.com/4dba8bzu
 
 ---
 
